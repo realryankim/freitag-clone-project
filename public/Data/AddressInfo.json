@@ -1,0 +1,36 @@
+{
+  "AddressInfo": [
+    {
+      "id": 1,
+      "name": "First name"
+    },
+    {
+      "id": 2,
+      "name": "Last name"
+    },
+    {
+      "id": 3,
+      "name": "Care of"
+    },
+    {
+      "id": 4,
+      "name": "Street & No."
+    },
+    {
+      "id": 5,
+      "name": "Addition to address"
+    },
+    {
+      "id": 6,
+      "name": "District (Korea example: Yongsan-gu)"
+    },
+    {
+      "id": 7,
+      "name": "City"
+    },
+    {
+      "id": 8,
+      "name": "Postal code"
+    }
+  ]
+}

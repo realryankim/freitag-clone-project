@@ -1,0 +1,120 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "category": "APPAREL MALE",
+      "category_name": "Shirts",
+      "title": "E783",
+      "subTitle": "MALE SHIRT",
+      "description": "THE FREE SHIRT",
+      "price": "￦241,000",
+      "sub": [
+        {
+          "id": 1,
+          "title": "shirt",
+          "color": "black",
+          "url": [
+            "https://imagescdn.gettyimagesbank.com/500/14/853/036/0/477329219.jpg",
+            "https://images.unsplash.com/photo-1524275539700-cf51138f679b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "https://freitag.rokka.io/neo-grid-2/7c6e096f36e5871b8940195f33aff2a8992c9a03/e783-male-shirt-black-lindasuter-rgb-highres.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "shirt",
+          "color": "brown",
+          "url": [
+            "https://imagescdn.gettyimagesbank.com/500/13/021/749/0/188080890.jpg",
+            "https://images.unsplash.com/photo-1524275539700-cf51138f679b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "https://freitag.rokka.io/neo-grid-2/7c6e096f36e5871b8940195f33aff2a8992c9a03/e783-male-shirt-black-lindasuter-rgb-highres.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "shirt",
+          "color": "green",
+          "url": [
+            "https://imagescdn.gettyimagesbank.com/500/19/901/401/0/1130767133.jpg",
+            "https://images.unsplash.com/photo-1524275539700-cf51138f679b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "https://freitag.rokka.io/neo-grid-2/7c6e096f36e5871b8940195f33aff2a8992c9a03/e783-male-shirt-black-lindasuter-rgb-highres.jpg"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "shirt",
+          "color": "grey",
+          "url": [
+            "https://imagescdn.gettyimagesbank.com/500/18/227/305/0/1048232984.jpg",
+            "https://images.unsplash.com/photo-1524275539700-cf51138f679b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "https://freitag.rokka.io/neo-grid-2/7c6e096f36e5871b8940195f33aff2a8992c9a03/e783-male-shirt-black-lindasuter-rgb-highres.jpg"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "shirt",
+          "color": "white",
+          "url": [
+            "https://imagescdn.gettyimagesbank.com/500/18/227/335/0/1048231124.jpg",
+            "https://images.unsplash.com/photo-1524275539700-cf51138f679b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "https://freitag.rokka.io/neo-grid-2/7c6e096f36e5871b8940195f33aff2a8992c9a03/e783-male-shirt-black-lindasuter-rgb-highres.jpg"
+          ]
+        },
+        {
+          "id": 6,
+          "title": "shirt",
+          "color": "navy",
+          "url": [
+            "https://imagescdn.gettyimagesbank.com/500/18/227/361/0/1048228352.jpg",
+            "https://images.unsplash.com/photo-1524275539700-cf51138f679b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "https://freitag.rokka.io/neo-grid-2/7c6e096f36e5871b8940195f33aff2a8992c9a03/e783-male-shirt-black-lindasuter-rgb-highres.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "E905",
+      "subTitle": "CRAVATE",
+      "price": "￦96,000",
+      "sub": [
+        {
+          "id": 1,
+          "title": "tie",
+
+          "color": "black",
+          "url": "https://imagescdn.gettyimagesbank.com/500/20/942/961/0/1208532656.jpg"
+        },
+        {
+          "id": 2,
+          "title": "tie",
+          "color": "brown",
+          "url": "https://imagescdn.gettyimagesbank.com/500/20/942/696/0/1207337508.jpg"
+        },
+        {
+          "id": 3,
+          "title": "tie",
+          "color": "green",
+          "url": "https://imagescdn.gettyimagesbank.com/500/20/942/715/0/1207337442.jpg"
+        },
+        {
+          "id": 4,
+          "title": "tie",
+          "color": "grey",
+          "url": "https://imagescdn.gettyimagesbank.com/500/20/942/739/0/1207337383.jpg"
+        },
+        {
+          "id": 5,
+          "title": "tie",
+          "color": "white",
+          "url": "https://imagescdn.gettyimagesbank.com/500/20/942/939/0/1208330092.jpg"
+        },
+        {
+          "id": 6,
+          "title": "tie",
+          "color": "navy",
+          "url": "https://imagescdn.gettyimagesbank.com/500/20/942/603/0/1207115445.jpg"
+        }
+      ]
+    }
+  ]
+}
