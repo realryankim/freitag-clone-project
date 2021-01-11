@@ -32,7 +32,7 @@
   * Back-end API 통신
   * Validation
   
-* 상품 리스트, 상세 페이지
+* <b>상품 리스트, 상세 페이지</b>
   * <b>Category 제품 정렬, filtering(color)</b>
   * <b>각 제품별 상세페이지</b>
   * Filter 기능 (Back-end API) 가격별 기능 추가
